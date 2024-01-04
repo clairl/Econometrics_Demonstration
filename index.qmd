@@ -2,10 +2,8 @@
 title: "Econometrics_Demonstration"
 ---
 
-This is a Quarto website.
+We would like to learnb about econometrics. The best starting point is simple linear regression, which takes the form of:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+$$Y=\beta_0+\beta_1X+\epsilon,$$
 
-```{r}
-1 + 1
-```
+where $Y$ is the dependent variable, $X$ is the independent variable, $\epsilon$ is the error term, and $\beta_i$ $i=0,1$ is the parameter of interest. 

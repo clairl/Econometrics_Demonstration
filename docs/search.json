@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Econometrics_Demonstration",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "\\[Y=\\beta_0+\\beta_1X+\\epsilon,\\]\nwhere \\(Y\\) is the dependent variable, \\(X\\) is the independent variable, \\(\\epsilon\\) is the error term, and \\(\\beta_i\\) \\(i=0,1\\) is the parameter of interest."
   },
   {
     "objectID": "about.html",
